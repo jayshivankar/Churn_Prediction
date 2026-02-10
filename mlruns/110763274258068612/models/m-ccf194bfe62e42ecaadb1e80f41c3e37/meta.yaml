@@ -1,0 +1,10 @@
+artifact_location: file:///home/jay/Churn-Prediction/mlruns/110763274258068612/models/m-ccf194bfe62e42ecaadb1e80f41c3e37/artifacts
+creation_timestamp: 1770647043105
+experiment_id: '110763274258068612'
+last_updated_timestamp: 1770647045248
+model_id: m-ccf194bfe62e42ecaadb1e80f41c3e37
+model_type: null
+name: model
+source_run_id: 3c04b71d025f4e1a89cacce06357bb0c
+status: 2
+status_message: null

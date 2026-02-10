@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jay/Churn-Prediction/mlruns/110763274258068612/589bc721d6ce4ef28f1c9c3fe538aff6/artifacts
+end_time: 1770646270647
+entry_point_name: ''
+experiment_id: '110763274258068612'
+lifecycle_stage: active
+run_id: 589bc721d6ce4ef28f1c9c3fe538aff6
+run_name: hilarious-turtle-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770646270612
+status: 4
+tags: []
+user_id: jay

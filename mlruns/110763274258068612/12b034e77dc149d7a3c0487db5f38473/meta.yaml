@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jay/Churn-Prediction/mlruns/110763274258068612/12b034e77dc149d7a3c0487db5f38473/artifacts
+end_time: 1770645399857
+entry_point_name: ''
+experiment_id: '110763274258068612'
+lifecycle_stage: active
+run_id: 12b034e77dc149d7a3c0487db5f38473
+run_name: bustling-eel-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770645399833
+status: 4
+tags: []
+user_id: jay

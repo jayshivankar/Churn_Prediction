@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jay/Churn-Prediction/mlruns/110763274258068612/b0cfefd9bd08470faf18bc4b421066d8/artifacts
+end_time: 1770645972569
+entry_point_name: ''
+experiment_id: '110763274258068612'
+lifecycle_stage: active
+run_id: b0cfefd9bd08470faf18bc4b421066d8
+run_name: kindly-tern-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770645972488
+status: 4
+tags: []
+user_id: jay

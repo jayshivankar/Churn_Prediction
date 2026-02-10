@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jay/Churn-Prediction/mlruns/110763274258068612/fa659f9dd6984c4b85dd2911e1bbd307/artifacts
+end_time: 1770646623845
+entry_point_name: ''
+experiment_id: '110763274258068612'
+lifecycle_stage: active
+run_id: fa659f9dd6984c4b85dd2911e1bbd307
+run_name: trusting-sponge-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770646623510
+status: 4
+tags: []
+user_id: jay
