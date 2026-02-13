@@ -86,7 +86,8 @@ def get_prediction(data: CustomerData):
     """
     try:
         # Convert Pydantic model to dict and call inference pipeline
-        result = predict(data.model_dump())
+        model = data.dict()
+        result = predict(model)
         return {"prediction": result}
     except Exception as e:
         # Return error details for debugging (consider logging in production)
