@@ -268,11 +268,3 @@ src.app.main:app
 
 ---
 
-# 👨‍💻 Author
-
-**Jay**  
-Machine Learning Engineer | MLOps Enthusiast  
-
----
-
-If this project helped you or inspired you, feel free to ⭐ the repository.
